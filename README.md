@@ -1,6 +1,6 @@
 
 
-### Hi!, I'm José Sandele 👋
+### Hi, i'm José Sandele 👋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100086443701516)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2F%40josesandele%3Ffbclid%3DIwAR061XZUPrusXseGHJTVPlnR45GO_2i8ulErvhthHrmavrEHouRbHtt990E&h=AT3P-29-SDpDox-GAGAUYUJoIsIPO1k74ZRmLNC7LkM_v-EXDSCQDsOg7UnRjsOceNybIGq7jQAuEqt7XFdLRYDxqa6QGWzkAatXNSxB3zEy51g6xfBY4s_STibirDcfEfm0Fw)
