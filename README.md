@@ -23,7 +23,7 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas pela tecnológia.
+Apaixonado por tecnologia, educação e por mudar vida de pessoas pela tecnológia.
 
 ## Ultimas publicações:
 - [INICIANDO PROGRAMAÇÃO EM 2023]</br>(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</br>
